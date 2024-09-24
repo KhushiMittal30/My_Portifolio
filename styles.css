@@ -319,7 +319,7 @@ ul{
     align-items: center;
     transition: 0.6s;
     opacity: 0;
-
+    
 }
 .portfolio .boxs .box:hover .box-hover{
     opacity: 1;
