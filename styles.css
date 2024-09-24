@@ -159,6 +159,9 @@ header nav .nav-links a.active{
     border-radius: 20%;
     /* box-shadow: 1px 0px 4px 0px ; */
 }
+.hero .content {
+    margin-left: 100px;
+}
 
 .hero .content h4{
     color: rgb(0, 106, 255);
